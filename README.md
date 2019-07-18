@@ -11,7 +11,11 @@ Each List item should contain - track name, artist name and artwork image.
 genre, country, price, currency, artwork image, release date(Feel free to add more.)
 
 API Used : iTunes API - https://itunes.apple.com/search?term=adele
+
 Widget used for Search : SearchView.
+
 Networking Library: Retrofit
+
 Code Language: Kotlin
+
 Json Parsing: Gson
